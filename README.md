@@ -59,5 +59,5 @@ This is the system prompt that I used asking the model to rate it’s reasoning 
 This is how I do doubt injection specifically
 ![](./assets/inj.png)
 
-This is how I generate the texts while injecting the doubt tokens in the reasoining models CoT
+This is how I generate the texts while injecting the doubt tokens in the CoT of the reasoning model
 ![](./assets/gen.png)
